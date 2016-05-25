@@ -4,5 +4,5 @@ function fun1(){
 
 fun1();
 (function fun2(){
-alert("fun2 it works");
+alert("fun2 it works3321321");
 })();
